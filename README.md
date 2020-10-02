@@ -230,7 +230,7 @@ You should now have a Node.js welcome page showing the current hit count, as sto
 #### Pushing updates
 
 Assuming you used the URL of your own forked repository, we can easily push changes and simply repeat the steps above which will trigger the newly built image to be deployed.
-
+## Checking Git Webhook functionality on CRC
 ### Debugging
 
 Review some of the common tips and suggestions [here](https://github.com/openshift/origin/blob/master/docs/debugging-openshift.md).
@@ -254,3 +254,4 @@ This repository is compatible with Node.js 4 and higher, excluding any alpha or 
 ### License
 
 This code is dedicated to the public domain to the maximum extent permitted by applicable law, pursuant to [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
+
